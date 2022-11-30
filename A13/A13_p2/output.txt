@@ -1,0 +1,9 @@
+The sum is:
+4+6i
+
+The difference is:
+-2-2i
+
+The product is:
+-5+10i
+
